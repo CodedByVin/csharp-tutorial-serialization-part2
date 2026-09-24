@@ -23,4 +23,7 @@ This repository contains the completed source code for Tutorial # on my YouTube 
 4. Press **Start** (or `F5`) in Visual Studio to run the application.
 
 ## Screenshots
-[Insert your screenshot images here]
+<img width="785" height="478" alt="Screenshot 2026-09-23 210420" src="https://github.com/user-attachments/assets/1407443d-b06e-44f1-93d2-f24807f16eca" />
+<img width="911" height="530" alt="Screenshot 2026-09-23 210407" src="https://github.com/user-attachments/assets/547ece04-557d-4739-9183-bff5e2d09dc1" />
+<img width="844" height="568" alt="Screenshot 2026-09-23 210349" src="https://github.com/user-attachments/assets/daefa037-9967-483b-9a39-2af6194edb67" />
+
